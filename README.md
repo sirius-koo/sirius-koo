@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-__Interest__
+## __Interest__
 - Python
 - Dart & Flutter
 
