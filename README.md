@@ -1,9 +1,8 @@
 ### 👋Hi, Sirius-koo's Github. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koo2931)](https://solved.ac/koo2931/)
-
 ## __Interest__
-- Python
+- Python, Java
+- Data, ML
 
 <!--
 **sirius-koo/sirius-koo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
