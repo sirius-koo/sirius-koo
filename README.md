@@ -1,7 +1,6 @@
 ### 👋Hi, Sirius-koo's Github. 
 
 ## __Interest__
-- Python, Java
 - Data, ML
 
 <!--
